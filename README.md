@@ -5,7 +5,7 @@
 ### 1. Clone el repositorio:
 
 ```
-git clone https://github.com/laravel/laravel.git
+git clone https://github.com/fermonva/front-cafe-restaurante.git
 ```
 
 ### 2. Ingresar en el directorio:
