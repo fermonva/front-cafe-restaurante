@@ -1,4 +1,4 @@
-<p align="center" style="width: 5%; margin-left: auto; margin-right: auto" ><a href="https://react.dev" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJs Logo"></a>ReactJs</p>
+<p align="center" style="width: 60px; height: 60px; margin-left: auto; margin-right: auto"><a href="https://react.dev" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJs Logo"></a>ReactJs</p>
 
 ## Ejecutar en desarrollo
 
